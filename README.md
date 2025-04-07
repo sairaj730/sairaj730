@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React, Node**
 
-- 👨‍💻 All of my projects are available at [https://sairaj730.github.io/sairaj_Portfolio/](https://sairaj730.github.io/sairaj_Portfolio/)
+- 👨‍💻 All of my projects are available at [portfolio](https://sairaj730.github.io/sairaj_Portfolio/)
 
 - 💬 Ask me about **Java, Data Structures**
 
 - 📫 How to reach me **vadasairaju123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1E59trnOVibPmoXBM62SK6D2OVMbqC6V_/view?usp=drive_link](https://drive.google.com/file/d/1E59trnOVibPmoXBM62SK6D2OVMbqC6V_/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1E59trnOVibPmoXBM62SK6D2OVMbqC6V_/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
